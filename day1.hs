@@ -1,6 +1,4 @@
 import Data.List
-import Data.Sequence (mapWithIndex)
-import System.Win32 (COORD (yPos))
 
 main :: IO ()
 main = do
